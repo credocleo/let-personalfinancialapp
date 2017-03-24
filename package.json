@@ -1,0 +1,19 @@
+{
+  "name": "let-personalfinancialapp",
+  "version": "1.0.0",
+  "description": "Cebu Open Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/credocleo/let-personalfinancialapp.git"
+  },
+  "author": "cleo credo, kent carumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/credocleo/let-personalfinancialapp/issues"
+  },
+  "homepage": "https://github.com/credocleo/let-personalfinancialapp#readme"
+}
